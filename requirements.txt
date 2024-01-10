@@ -1,15 +1,2 @@
-# requirements.txt
-
-# Core libraries
 numpy
-matplotlib
-scipy
-
-# Computer Vision
-opencv-python
-imageio
-
-# Machine Learning and Deep Learning (optional, adjust as needed)
-torch
-scikit-learn
 
