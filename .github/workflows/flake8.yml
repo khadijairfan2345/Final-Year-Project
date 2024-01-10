@@ -26,4 +26,4 @@ jobs:
       shell: bash
 
     - name: Run Flake8
-      run: flake8 --max-line-length=150 app.py
+      run: flake8 --max-line-length=150 appFixed.py
